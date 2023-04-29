@@ -1,0 +1,23 @@
+[
+    {
+        "name": "binance_usdm",
+        "url": "https://binance.com",
+        "icon": "http://localhost:3001/icons/binance.svg",
+        "displayName": "Binance Futures USDⓈ-M",
+        "color": "#f0b90b"
+    },
+    {
+        "name": "roboforex",
+        "url": "https://roboforex.com",
+        "icon": "http://localhost:3001/icons/roboforex.svg",
+        "displayName": "RoboForex",
+        "color": "#1883cf"
+    },
+    {
+        "name": "pepperstoneuk",
+        "url": "https://pepperstone.com",
+        "icon": "http://localhost:3001/icons/pepperstoneuk.svg",
+        "displayName": "Pepperstone UK",
+        "color": "#0064FA"
+    }
+]
